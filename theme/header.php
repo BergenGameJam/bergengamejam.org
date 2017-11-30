@@ -1,3 +1,5 @@
+<!doctype html>
+<html>
 <head>
   <title><?php bloginfo('title'); ?></title>
   <meta charset="UTF-8">
