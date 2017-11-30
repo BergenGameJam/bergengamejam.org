@@ -1,0 +1,109 @@
+/*
+Theme Name: Bergen Game Jam
+Theme URI: http://bergengamejam.org
+Author: Helene Dunlop
+Author URI: http://helenekonstantine.no
+Description: The theme for Bergen Game Jam 2018
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.header, img {
+  width: 100%;
+}
+
+.navbar {
+  margin: auto;
+  margin-bottom: 30px;
+  padding: 30px;
+  text-align: center;
+  background-color: #50808c;
+  font-family: 'Oswald', sans-serif;
+}
+
+.navbar span a {
+  text-decoration: none;
+  margin: auto;
+  margin-right: 30px;
+  margin-left: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #ffffff;
+  letter-spacing: 0.8px;
+}
+
+.text {
+  margin: auto;
+  padding-top: 40px;
+  width: 50%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.text h1 {
+  margin-bottom: 15px;
+  padding: 20px;
+  font-size: 35px;
+  color: #50808c;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.text h2 {
+  padding: 15px;
+  font-size: 20px;
+}
+
+.text h3 {
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+.text p {
+  padding: 5px;
+  padding-bottom: 40px;
+  text-align: center;
+  line-height: 21px;
+  letter-spacing: 0.3px;
+}
+
+.footer {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #50808c;
+}
+
+.footer h3 {
+  color: #ffffff;
+}
+
+.some {
+  margin: 15px;
+}
+
+.some a {
+  text-decoration: none;
+}
+
+.some a img {
+  width: 50px;
+  padding: 15px;
+}
+
+p a {
+  text-decoration: none;
+  color: #000000;
+}
+
+#faq p {
+  text-align: left;
+}
