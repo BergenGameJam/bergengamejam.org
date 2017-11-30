@@ -12,5 +12,5 @@
 <div class="header">
   <img src="<?php header_image(); ?>" />
 </div>
-  <?php get_navbar(); ?>
+  <?php wp_nav_menu(array(theme_location=>'primary', container_class=>'menu')); ?>
 </body>
