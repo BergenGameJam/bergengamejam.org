@@ -13,4 +13,4 @@
   <img src="<?php header_image(); ?>" />
 </div>
   <?php wp_nav_menu(); ?>
-</body>
+
