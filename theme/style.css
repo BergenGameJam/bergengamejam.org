@@ -17,7 +17,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
   width: 100%;
 }
 
-.navbar {
+.navbar .primary-menu {
   margin: auto;
   margin-bottom: 30px;
   padding: 30px;
@@ -26,7 +26,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
   font-family: 'Oswald', sans-serif;
 }
 
-.navbar span a {
+.navbar .primary-menu ul li a {
   text-decoration: none;
   margin: auto;
   margin-right: 30px;
