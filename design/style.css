@@ -12,7 +12,8 @@
   font-family: 'Oswald', sans-serif;
 }
 
-.navbar span a {
+.navbar ul li a {
+  display: inline;
   text-decoration: none;
   margin: auto;
   margin-right: 30px;
