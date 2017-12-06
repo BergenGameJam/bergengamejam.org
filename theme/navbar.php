@@ -1,1 +1,6 @@
-<?php wp_list_pages(array('title_span' => '', 'exclude' => 4)); ?>
+<?php
+    wp_nav_menu( array(
+        'theme_location' => 'primary',
+        'menu_class'     => 'primary-menu',
+         ) );
+?>
