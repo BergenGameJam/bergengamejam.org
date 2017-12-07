@@ -1,6 +1,7 @@
 
 .header, img {
   width: 100%;
+  margin-bottom: -10px;
 }
 
 .navbar {
@@ -12,7 +13,7 @@
   font-family: 'Oswald', sans-serif;
 }
 
-.navbar ul li a {
+.navbar span a {
   display: inline;
   text-decoration: none;
   margin: auto;
