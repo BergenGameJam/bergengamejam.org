@@ -56,6 +56,15 @@
   letter-spacing: 1px;
 }
 
+.text h4 {
+  padding: 30px 0 10px 0;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #50808c;
+}
+
 .text p {
   padding: 5px;
   padding-bottom: 40px;
@@ -102,4 +111,14 @@ p a {
 
 #fb-link {
   color: #4F808C;
+}
+
+.equipment {
+  margin-bottom: 30px;
+}
+
+.faq-list {
+  list-style-type: circle;
+  text-align: left;
+  line-height: 21px;
 }
